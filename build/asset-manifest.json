@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Quinn_Task/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Quinn_Task/static/js/main.36c44d06.chunk.js",
+    "main.js.map": "/Quinn_Task/static/js/main.36c44d06.chunk.js.map",
+    "runtime-main.js": "/Quinn_Task/static/js/runtime-main.b65fd38b.js",
+    "runtime-main.js.map": "/Quinn_Task/static/js/runtime-main.b65fd38b.js.map",
+    "static/js/2.9364958c.chunk.js": "/Quinn_Task/static/js/2.9364958c.chunk.js",
+    "static/js/2.9364958c.chunk.js.map": "/Quinn_Task/static/js/2.9364958c.chunk.js.map",
+    "static/js/3.1b98b918.chunk.js": "/Quinn_Task/static/js/3.1b98b918.chunk.js",
+    "static/js/3.1b98b918.chunk.js.map": "/Quinn_Task/static/js/3.1b98b918.chunk.js.map",
+    "index.html": "/Quinn_Task/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Quinn_Task/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.9364958c.chunk.js.LICENSE.txt": "/Quinn_Task/static/js/2.9364958c.chunk.js.LICENSE.txt",
+    "static/media/img_avatar1.e20ca47f.png": "/Quinn_Task/static/media/img_avatar1.e20ca47f.png",
+    "static/media/logo.6ce24c58.svg": "/Quinn_Task/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b65fd38b.js",
+    "static/js/2.9364958c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.36c44d06.chunk.js"
+  ]
+}
